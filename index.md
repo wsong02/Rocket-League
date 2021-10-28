@@ -14,7 +14,7 @@ Rocket League on paper is a very basic concept. You simply have either 1, 2, 3 o
 The world of rocket league mechanics are endless, and to this day people are still discovering new ways of playing the game that constantly up the level of gameplay. No many how many hours you put into the game, there is always something that you can learn to do.
 
 ### Driving and Jumping
-The car in rocket league operates almost the same way as the car in real life. You can drive forwards, turn, or drive backwards; then you can also **jump**, which sends your car up into the air above everyone else. Other players watch you in awe while you look down upon them like as if they were peasants.
+The car in rocket league operates almost the same way as the car in real life. You can drive forwards, turn, or drive backwards; then you can also **jump**, which sends your car up into the air above everyone else. Other players watch you in awe while you look down upon them as if they were peasants.
 
 Not only that, but you can ***double jump*** to go even higher! This is extremely important because sometimes to save or score the ball going for top bins you need that extra bit of height, and this second jump gets you there.
 
@@ -25,9 +25,9 @@ If you combine driving in a given direction with double jumping at the same time
 
 Then we have boost. This is the heart and soul of every Rocket League gamer.
 
-Boost or score the goal? Boost
-Boost or save the enemy's goal? Boost
-Boost or do something useful for your team? Boost
+Boost or score the goal? Boost.
+Boost or save the enemy's goal? Boost.
+Boost or do something useful for your team? Boost.
 With boost, you can do anything! (Theoretically)
 
 Boost is what you can use to propel your car in the direction that its facing, since the "boosters" of any car lie at the back. It can help speed you up or, if you jump, then you are able to **fly**. Very cool eh? 
