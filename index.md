@@ -26,8 +26,11 @@ If you combine driving in a given direction with double jumping at the same time
 Then we have boost. This is the heart and soul of every Rocket League gamer.
 
 Boost or score the goal? Boost.
+
 Boost or save the enemy's goal? Boost.
+
 Boost or do something useful for your team? Boost.
+
 With boost, you can do anything! (Theoretically)
 
 Boost is what you can use to propel your car in the direction that its facing, since the "boosters" of any car lie at the back. It can help speed you up or, if you jump, then you are able to **fly**. Very cool eh? 
