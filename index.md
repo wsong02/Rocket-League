@@ -1,10 +1,6 @@
 <style>
-  H3{color:Blue !important;}
+  H3{color:Light-Blue !important;}
 </style>
-
-Click [here](https://github.com/wsong02/Rocket-League) for my GitHub repository.
-
-
 # ROCKET LEAGUE
 ![Rocket League](https://media.giphy.com/media/nXg2lqVpal6KgSC8Zq/giphy-downsized-large.gif)
 
