@@ -1,28 +1,37 @@
 <style>
   H3{color:Blue !important;}
 </style>
+html { 
+  background: url(https://wallpaperaccess.com/full/3278584.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
 Click [here](https://github.com/wsong02/Rocket-League) for my GitHub repository.
 
 
 # ROCKET LEAGUE
 ![Rocket League](https://media.giphy.com/media/nXg2lqVpal6KgSC8Zq/giphy-downsized-large.gif)
 
-Hi! I'm William and as well as being a 1st year BSc Economics student at LSE I also liked to game.
+Hi! I'm William and as well as being a 1st year BSc Economics student at LSE I also like to game.
+
 Have you ever heard of the game [Rocket League](https://www.rocketleague.com)? If you haven't, then you are most definitely missing out! Unless gaming is not your thing... 
 
-Rocket League on paper is a very basic concept. You simply have either 1, 2, 3 or 4-a-side football with cars. But it's a lot more complex than that! I'll explain that to you on this webpage.
+Rocket League on paper is a very basic concept. You simply have either 1, 2, 3 or 4-a-side football with cars and 5 minutes to try and score more goals than your opposition. But it's a lot more complex than that! I'll explain all this to you in this introduction to rocket league.
 
 ## Mechanics
-The world of rocket league mechanics are endless, and to this day people are still discovering new ways of playing the game that constantly up the level of gameplay.
+The world of rocket league mechanics are endless, and to this day people are still discovering new ways of playing the game that constantly up the level of gameplay. No many how many hours you put into the game, there is always something that you can learn to do.
 
 ### Driving and Jumping
-The car in rocket league operates almost the same way as the car in real life. You can drive forwards, turn, or drive backwards; then you can also **jump**, which sends your car up into the air above everyone else as other players watch you in awe while you look down upon them like as if they were peasants.
+The car in rocket league operates almost the same way as the car in real life. You can drive forwards, turn, or drive backwards; then you can also **jump**, which sends your car up into the air above everyone else. Other players watch you in awe while you look down upon them like as if they were peasants.
 
-Not only that, but you can ***double jump*** to go even higher! This is extremely important because sometimes to save the ball going for top bins you need that extra bit of height to save the ball, and this second jump gets you there.
+Not only that, but you can ***double jump*** to go even higher! This is extremely important because sometimes to save or score the ball going for top bins you need that extra bit of height, and this second jump gets you there.
 
 If you combine driving in a given direction with double jumping at the same time, you are able to **flip** your car in the direction that you are moving in, i.e. if you are driving forwards you will flip forwards and if you are driving to the left you will flip sideways. This is just as important as jumping because it allows you to hit the ball with *momentum* and **POWER**.
 
 ### Boost
+[boost](https://static.wikia.nocookie.net/rocketleague/images/4/49/Boost_full.jpg/revision/latest/scale-to-width-down/989?cb=20150825233326)
 Then we have boost. This is the heart and soul of every Rocket League gamer.
 
 Boost or score the goal? Boost
