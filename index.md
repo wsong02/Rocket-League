@@ -49,8 +49,8 @@ Rocket league isn't just about flexing the hundreds or thousands of hours you sp
 
 In rocket league the most common and effective strategy is *rotation*. This is where you and your teammates take turns at hitting the ball in order to allow time in between for you to get boost and position yourself on a map. If you had to always hit the ball while your teammates just watched then you would quickly run out of boost and be rendered useless as the enemy beats you in a race to the ball, so keeping this in mind is extremely important to playing the game later on, but don't worry about it if you are just getting started!
 
-### Esports
-I've saved the most exciting part of rocket league for last: Esports.
+### E-Sports
+I've saved the most exciting part of rocket league for last: E-Sports.
 
 As with any huge online multiplayer game, rocket league has its own tournaments around the world where the best players in each continent battle it out to decide who is the best! These players will pull off mechanics that you and I could never dream of doing and the intensity of every second is bound to get you sucked into the game.
 
