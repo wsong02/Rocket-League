@@ -1,13 +1,7 @@
 <style>
   H3{color:Blue !important;}
 </style>
-html { 
-  background: url(https://wallpaperaccess.com/full/3278584.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
+
 Click [here](https://github.com/wsong02/Rocket-League) for my GitHub repository.
 
 
@@ -31,7 +25,7 @@ Not only that, but you can ***double jump*** to go even higher! This is extremel
 If you combine driving in a given direction with double jumping at the same time, you are able to **flip** your car in the direction that you are moving in, i.e. if you are driving forwards you will flip forwards and if you are driving to the left you will flip sideways. This is just as important as jumping because it allows you to hit the ball with *momentum* and **POWER**.
 
 ### Boost
-[boost](https://static.wikia.nocookie.net/rocketleague/images/4/49/Boost_full.jpg/revision/latest/scale-to-width-down/989?cb=20150825233326)
+![boost](https://static.wikia.nocookie.net/rocketleague/images/4/49/Boost_full.jpg/revision/latest/scale-to-width-down/989?cb=20150825233326)
 Then we have boost. This is the heart and soul of every Rocket League gamer.
 
 Boost or score the goal? Boost
@@ -56,5 +50,7 @@ In rocket league the most common and effective strategy is *rotation*. This is w
 
 ### Esports
 I've saved the most exciting part of rocket league for last: Esports.
+
 As with any huge online multiplayer game, rocket league has its own tournaments around the world where the best players in each continent battle it out to decide who is the best! These players will pull off mechanics that you and I could never dream of doing and the intensity of every second is bound to get you sucked into the game.
+
 While gamers are commonly mocked for spending too much time doing something wasteful (not arguing that it isn't if played excessively), but on the e-sport level it truly shows what thousands of hours of dedication into one's own craft can achieve, and should inspire all of us to work hard in our individual endeavours and aspirations.
