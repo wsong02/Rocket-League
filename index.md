@@ -25,7 +25,8 @@ Not only that, but you can ***double jump*** to go even higher! This is extremel
 If you combine driving in a given direction with double jumping at the same time, you are able to **flip** your car in the direction that you are moving in, i.e. if you are driving forwards you will flip forwards and if you are driving to the left you will flip sideways. This is just as important as jumping because it allows you to hit the ball with *momentum* and **POWER**.
 
 ### Boost
-![boost](https://static.wikia.nocookie.net/rocketleague/images/4/49/Boost_full.jpg/revision/latest/scale-to-width-down/989?cb=20150825233326)
+![boost](https://rocketleague.fandom.com/wiki/Boost?file=Boost_full.jpg)
+
 Then we have boost. This is the heart and soul of every Rocket League gamer.
 
 Boost or score the goal? Boost
