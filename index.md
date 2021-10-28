@@ -33,7 +33,7 @@ With boost, you can do anything! (Theoretically)
 Boost is what you can use to propel your car in the direction that its facing, since the "boosters" of any car lie at the back. It can help speed you up or, if you jump, then you are able to **fly**. Very cool eh? 
 
 Using boost while jumping propels you into the air where you can let your creativity run wild. You can spin, flip, fly in any direction you want while you have boost, being able to do crazy things like the gif below:
-![insert gif here]https://media.giphy.com/media/gRRpnQyfeD1YI/giphy-downsized-large.gif
+![insert gif here](https://media.giphy.com/media/gRRpnQyfeD1YI/giphy-downsized-large.gif)
 
 ### Cosmetics
 Rocket League just has really dope animations and cosmetics. Enough said.
