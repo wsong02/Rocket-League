@@ -55,3 +55,4 @@ I've saved the most exciting part of rocket league for last: E-Sports.
 As with any huge online multiplayer game, rocket league has its own tournaments around the world where the best players in each continent battle it out to decide who is the best! These players will pull off mechanics that you and I could never dream of doing and the intensity of every second is bound to get you sucked into the game.
 
 While gamers are commonly mocked for spending too much time doing something wasteful (not arguing that it isn't if played excessively),  on the e-sport level it really shows what thousands of hours of dedication into one's own craft can achieve, and should inspire all of us to work hard in our individual endeavours and aspirations.
+![esports](https://www.esports.net/wp-content/uploads/2021/07/Best-Rocket-League-Players-2021.jpg)
